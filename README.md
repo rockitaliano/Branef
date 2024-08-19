@@ -10,7 +10,7 @@ Dapper
 MediatR
 Swagger
 
-#Padrões e metodologias Utilizadas
+# Padrões e metodologias Utilizadas
 CQRS,
 Repository Pattern
 ILooger para logs da app.
